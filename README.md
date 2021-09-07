@@ -7,3 +7,6 @@ Fetched tweets are cleaned by applying various NLP Techniques to obtain the desi
 The developed app gives the user various inputs for the user to apply and see the relative information live.
 The app has been developed by the help of:
 
+![3wgIDj3j](https://user-images.githubusercontent.com/76935226/132341085-91320b34-7ae2-405a-868a-16235f44d878.png)   
+
+
