@@ -23,6 +23,9 @@ The app has been developed with the help of streamlit and has been hosted on the
 # Check out the App
 https://twitterdetails.herokuapp.com/
 
+# About the App
+The app provides a section to the user to input the topic to get the results and there are various options provided that will give inssight such as cleaned tweets dataframe, plots for verified accounts and image showing positive and negative tweets. 
+
 
 
 
