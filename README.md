@@ -13,9 +13,10 @@ The developed app gives the user various inputs for the user to apply and see th
 The processing happens in real time.
 The app has been developed with the help of streamlit and has been hosted on the web by Heroku.
 
-[image](https://user-images.githubusercontent.com/76935226/140599230-448e049a-8c45-4c0e-bb76-565d1dde4ce1.png)
 
 
+
+![Heroku](https://user-images.githubusercontent.com/76935226/140599295-0097ce54-79d6-497f-8231-cfcd9e76f0a7.png)
 
 
 
