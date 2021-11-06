@@ -20,6 +20,9 @@ The app has been developed with the help of streamlit and has been hosted on the
 
 ![image](https://user-images.githubusercontent.com/76935226/140599325-3d3673c7-49ba-493d-ad72-fc346d7e4b20.png)
 
+# Check out the App
+https://twitterdetails.herokuapp.com/
+
 
 
 
