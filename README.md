@@ -26,6 +26,12 @@ https://twitterdetails.herokuapp.com/
 # About the App
 The app provides a section to the user to input the topic to get the results and there are various options provided that will give inssight such as cleaned tweets dataframe, plots for verified accounts and image showing positive and negative tweets. 
 
+![Screenshot (144)](https://user-images.githubusercontent.com/76935226/140599517-cbbbf8c3-adf2-489a-9f23-533b392ef46d.png)
+![Screenshot (145)](https://user-images.githubusercontent.com/76935226/140599532-62ac7721-eb4f-4c17-85c9-d4e592eaa346.png)
+![Screenshot (146)](https://user-images.githubusercontent.com/76935226/140599542-8aa4071c-1921-41b3-925a-fd833c009a79.png)
+![Screenshot (147)](https://user-images.githubusercontent.com/76935226/140599566-564c136b-2548-442f-81f1-72a70ebf8744.png)
+
+
 
 
 
