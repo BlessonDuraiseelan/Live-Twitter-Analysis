@@ -18,6 +18,9 @@ The app has been developed with the help of streamlit and has been hosted on the
 
 ![Heroku](https://user-images.githubusercontent.com/76935226/140599295-0097ce54-79d6-497f-8231-cfcd9e76f0a7.png)
 
+![87276097-dd011780-c49c-11ea-980f-6b27e617faad](https://user-images.githubusercontent.com/76935226/140599299-224e4406-cf76-47c4-bb68-c6ee31d00099.png)
+
+
 
 
 
