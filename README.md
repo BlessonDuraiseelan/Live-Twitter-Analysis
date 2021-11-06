@@ -14,7 +14,9 @@ The processing happens in real time.
 The app has been developed with the help of streamlit and has been hosted on the web by Heroku.
 
 <img width="1461" alt="8cb5b6c0e1fe4e4ebfd30b769204c0d30c332fec" src="https://user-images.githubusercontent.com/76935226/140599162-d2ecbff8-dcf4-4626-8abc-5dc5504d3360.png">
-![87276097-dd011780-c49c-11ea-980f-6b27e617faad](https://user-images.githubusercontent.com/76935226/140599166-72119ff6-a41b-488a-b6d9-f3211db56a76.png)
+![image](https://user-images.githubusercontent.com/76935226/140599183-e797e004-0327-4c24-bf14-d9e2cd1f6810.png)
+
+
 
 
 
