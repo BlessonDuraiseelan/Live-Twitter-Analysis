@@ -1,11 +1,11 @@
 # Live-Twitter-Analysis
-This is a Project done for the explanation of NLP Techniques applied in live feed of Tweets.
+This is a webapp developed where the input data is fed through live feed of Tweets.
 We are developing a webapp using Tweepy API that will be used to fetch tweets in realtime for the topic entered by the user and use various graphical representation for drawing insights of the tweets and also use NLP Techniques on the collected tweets.
 
 # Model Building
 
-The data is collected with the help of Tweepy API which is enabled by providing the access tokens that will ensure that the connection is established. Then various parameters such as tweet_user , location , time ,Retweets etc  are used which will be used to store the respective information in the columns which will be converted to a dataframe.
-Fetched tweets are cleaned by applying various NLP Techniques to obtain the desired insight. There is also provison for the user to download the data.
+The data is collected with the help of Tweepy API which is enabled by providing the access tokens that will ensure that the connection is established. For getting access to Tweepy API as well as fetching data from twitter the user needs to have a developer account and needs to obtain consumer key and credentials which will be validated and then we would be abe to access tweeets through twitter app. Then various parameters such as tweet_user , location , time ,Retweets etc  are used which will be used to create a dataframe store the respective information in the columns which will be used for working of data.
+Fetched tweets are cleaned by applying various NLP Techniques to obtain the desired insight by the techniques such as matching a pattern and removal of unwanted characters and then Stopword removal along with Lemmatization is applied. We also analyze the sentiment of the clean tweet by verifying whether it is a postive twwet or negative tweet. There is also provison for the user to download the clean data.
 
 # Development and Deployment
 
