@@ -52,8 +52,8 @@ def main():
     #st.subheader('<p style="font-family:sans-serif; color:Green; font-size: 42px;">Choose a Topic that you want to get Sentiment Analysis on</p>')
      # Use the below credentials to authenticate the API.
 
-    auth = tweepy.OAuthHandler("DWhbsesTdsKSzq8zFMZZyiHJ6", "jN2IFcu1sjaoEofTdqcdhITcUvkJovhlmADNnEbVhV12HMfz0F")
-    auth.set_access_token("1421412362024747009-gRtOK4eeHh838y4vE8xZ3sdBsfh9wC","F6FaNcip4m13knFFYpo5jd4lbWvQMINQhhitqHfCqQeWN")
+    auth = tweepy.OAuthHandler("Enter the OuthHandler Code", "Enter the OuthHandler Code")
+    auth.set_access_token("Enter Access Token","Enter Access Token")
     api = tweepy.API(auth)
     ################################################################
     df =pd.DataFrame(columns=["Date","User","IsVerified","Tweet","Likes","RT","User_Location"])
